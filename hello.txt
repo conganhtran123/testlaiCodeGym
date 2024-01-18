@@ -6,4 +6,5 @@ update file hello.txt trong branch hello1
 update file hello.txt trong branch hello3
 update file hello.txt trong branch hello4
 update file hello.txt trong branch hello5
+update file hello.txt trong branch hello6
 
